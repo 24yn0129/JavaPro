@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Examination.java&apos; to &apos;Java_ex0502/src/(デフォルト・パッケージ)&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;Java_ex0501&apos;&#x0D;&#x0A;- 宛先要素: &apos;Java_ex0502/src/(デフォルト・パッケージ)&apos;&#x0D;&#x0A;- オリジナル要素: &apos;Examination.java&apos;" description="コンパイル単位をコピー" destination="=Java_ex0502/src&lt;" element1="/src&lt;{Examination.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1776775798159" units="1" version="1.0"/>
+</session>
