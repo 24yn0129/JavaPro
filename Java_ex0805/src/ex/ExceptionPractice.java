@@ -12,10 +12,10 @@ public class ExceptionPractice {
         } catch (ArithmeticException e) {
             // byteの範囲を超えた際の例外をキャッチ
             System.out.println(e.getMessage());
-        } finally {
+        } 
             // 終了処理
             System.out.println("プログラムを終了します");
-        }
+        
     }
 
     /**

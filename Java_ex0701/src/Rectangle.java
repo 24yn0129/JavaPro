@@ -22,6 +22,6 @@ public class Rectangle extends AbstractShape {
 
     @Override
     public void print() {
-        System.out.println("高さ" + height + "、幅" + width + "の長方形の面積：" + getArea());
+        System.out.println("高さ" + getHeight() + "、幅" + getWidth() + "の長方形の面積：" + getArea());
     }
 }

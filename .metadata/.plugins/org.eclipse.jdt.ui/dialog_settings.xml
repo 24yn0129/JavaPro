@@ -11,7 +11,182 @@
 		<item key="linkWithEditor" value="false"/>
 	</section>
 	<section name="javadoc">
+		<item key="javadoc_command_history" value="C:\java\21\bin\javadoc.exe"/>
+		<item key="fromStandard" value="true"/>
+		<item key="docletname" value=""/>
+		<item key="docletpath" value=""/>
+		<item key="access" value="private"/>
+		<item key="use" value="false"/>
+		<item key="author" value="false"/>
+		<item key="version" value="false"/>
+		<item key="nodeprecated" value="false"/>
+		<item key="nodeprecatedlist" value="false"/>
+		<item key="splitindex" value="false"/>
+		<item key="noindex" value="false"/>
+		<item key="notree" value="false"/>
+		<item key="nonavbar" value="false"/>
+		<item key="openinbrowser" value="false"/>
+		<item key="source" value="1.8"/>
+		<item key="antpath" value="C:\JavaPro\Java_ex0804\javadoc.xml"/>
+		<item key="destdir" value="C:\JavaPro\Java_ex0804\doc"/>
 		<item key="additionalparam" value="-encoding UTF-8&#x0D;&#x0A;-charset UTF-8"/>
+		<section name="projects">
+			<section name="Java_m-ex01">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_m-ex01\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_m-ex01\javadoc.xml"/>
+			</section>
+			<section name="Java_m-ex02">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_m-ex02\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_m-ex02\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0802">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0802\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0802\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0901">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0901\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0901\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0504">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0504\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0504\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0603">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0603\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0603\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0702">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0702\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0702\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0801">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0801\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0801\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0404">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0404\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0404\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0503">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0503\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0503\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0602">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0602\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0602\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0701">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0701\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0701\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0403">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0403\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0403\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0502">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0502\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0502\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0601">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0601\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0601\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0402">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0402\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0402\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0501">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0501\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0501\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0401">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0401\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0401\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0909">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0909\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0909\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0908">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0908\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0908\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0907">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0907\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0907\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0906">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0906\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0906\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0905">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0905\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0905\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0805">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0805\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0805\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0904">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0904\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0904\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0804">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0804\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0804\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0903">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0903\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0903\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0803">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0803\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0803\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0902">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0902\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0902\javadoc.xml"/>
+			</section>
+			<section name="Servers">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Servers\doc"/>
+				<item key="antpath" value="C:\JavaPro\Servers\javadoc.xml"/>
+			</section>
+			<section name="Java_ex0910">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\JavaPro\Java_ex0910\doc"/>
+				<item key="antpath" value="C:\JavaPro\Java_ex0910\javadoc.xml"/>
+			</section>
+		</section>
 	</section>
 	<section name="JavaElementSearchActions">
 	</section>

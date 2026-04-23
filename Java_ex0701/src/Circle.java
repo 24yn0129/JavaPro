@@ -16,6 +16,6 @@ public class Circle extends AbstractShape {
 
     @Override
     public void print() {
-        System.out.println("半径" + radius + "の円の面積：" + getArea());
+        System.out.println("半径" + getRadius() + "の円の面積：" + getArea());
     }
 }
