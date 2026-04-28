@@ -2,7 +2,11 @@ package ordersystem;
 
 public class Main {
     public static void main(String[] args) {
+<<<<<<< HEAD
         
+=======
+        // --- メニューの準備（ここまでは今までと同じです） ---
+>>>>>>> 955ee73c1908f39619f463c5859acfb878b49fb4
         Menu menu = new Menu();
         menu.add(new Item("チーズINハンバーグ", 680));
         menu.add(new Item("ミックスフライ", 650));
@@ -11,7 +15,11 @@ public class Main {
         menu.add(new Item("ミックスピザ", 520));
         
         menu.show();
+<<<<<<< HEAD
         
+=======
+        // ----------------------------------------------------
+>>>>>>> 955ee73c1908f39619f463c5859acfb878b49fb4
 
         // テーブルを作成し、準備したメニューを渡します
         Table table = new Table(menu);
@@ -28,4 +36,9 @@ public class Main {
         // 注文後に履歴を表示します
         table.showOrder();
     }
+<<<<<<< HEAD
 }
+=======
+}
+
+>>>>>>> 955ee73c1908f39619f463c5859acfb878b49fb4
