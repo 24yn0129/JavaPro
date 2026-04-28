@@ -19,8 +19,12 @@ public class Manager extends Employee {
     public void showPostInfo() {
         System.out.println("役職：" + post);
     }
-
-    @Override
+    
+    /*
+     * @Override
+     *親クラスのメソッドとこのクラス内のshowPostInfoを呼び出せるようにする処理
+     * */
+    
     public void showEmployeeInfo() {
         super.showEmployeeInfo();
         this.showPostInfo();

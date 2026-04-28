@@ -26,6 +26,6 @@ class Employee {
     }
 
     public void showEmployeeInfo() {
-        System.out.println("名前：" + name + "　部署：" + section);
+        System.out.println("名前：" + name + " 部署：" + section);
     }
 }

@@ -19,7 +19,7 @@ public class Examination {
     }
 
     public static boolean judge(int score, String grade) {
-        if (judge(score) && judge(grade)) {
+        if (score >= 50 && judge(grade) || judge(score) && grade.equals("B")) {
             return true;
         } else {
             return false;

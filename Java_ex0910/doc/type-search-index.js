@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"ex","l":"Employee"},{"p":"ex","l":"ScanPractice"},{"l":"すべてのクラスおよびインタフェース","u":"allclasses-index.html"}];updateSearchResults();
