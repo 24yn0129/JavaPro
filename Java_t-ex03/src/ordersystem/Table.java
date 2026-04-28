@@ -34,8 +34,5 @@ public class Table {
             this.order.show();
         }
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 955ee73c1908f39619f463c5859acfb878b49fb4
+
