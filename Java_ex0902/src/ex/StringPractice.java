@@ -1,14 +1,14 @@
 package ex;
 
-/*
+/**
  * 配列練習クラス.
  */
 
 public class StringPractice {
 
-	/*
+	/**
 	 * main メインメソッド.
-	 * @param args使用.
+	 * @param args 使用.
 	 */
 	public static void main(String[] args) {
 		

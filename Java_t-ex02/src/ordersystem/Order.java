@@ -17,7 +17,7 @@ public class Order {
     }
 
     // 合計金額を計算して返す
-    public int getTotalAmount() {
+    private int getTotalAmount() {
         int total = 0;
         // リストの中身を一つずつ取り出して価格を足していきます
         for (Item item : this.orderedItemList) {

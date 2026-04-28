@@ -2,23 +2,35 @@ package ex;
 
 import java.util.Scanner;
 
+/**
+ * 入力の練習クラス.
+ */
+
 public class ScanPractice {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
 
-        while (true) {
-            System.out.print("文字列を入力してください：");
-            String input = scanner.nextLine();
+	/**
+	 * main メインメソッド.
+	 * @param args 未使用.
+	 */
+	public static void main(String[] args) {
 
-            // quitが入力されたらループを抜ける
-            if (input.equals("quit")) {
-                System.out.println("プログラムを終了します");
-                break;
-            }
 
-            System.out.println("入力された値は、『" + input + "』です。");
-        }
+		try (Scanner scanner = new Scanner(System.in)) {
 
-        scanner.close();
-    }
+			//quitが入力されるまで無限ループ.
+			while (true) {
+				System.out.print("文字列を入力してください：");
+				//input に入力
+				String input = scanner.nextLine();
+
+				// quitが入力されたらループを抜ける
+				if (input.equals("quit")) {
+					System.out.println("プログラムを終了します");
+					break;
+				}
+
+				System.out.println("入力された値は、『" + input + "』です。");
+			}
+		}
+	}
 }

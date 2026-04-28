@@ -2,7 +2,6 @@ package ordersystem;
 
 public class Main {
     public static void main(String[] args) {
-        // --- ここから総合演習1の処理 ---
         Menu menu = new Menu();
         menu.add(new Item("チーズINハンバーグ", 680));
         menu.add(new Item("ミックスフライ", 650));
@@ -17,14 +16,14 @@ public class Main {
         // 注文がない状態での表示
         order.show();
         
-        // 実行イメージを見ると改行が一つ入っているので追加
+       //改行
         System.out.println(); 
 
-        // 0番の商品（チーズINハンバーグ）をメニューから取得して注文
+        // 0番の商品取得
         Item item1 = menu.getItem(0);
         order.add(item1);
 
-        // 3番の商品（和風明太パスタ）をメニューから取得して注文
+        // 3番の商品取得
         Item item2 = menu.getItem(3);
         order.add(item2);
 

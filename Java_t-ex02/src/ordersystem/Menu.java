@@ -14,7 +14,7 @@ public class Menu {
         this.itemList.add(item);
     }
 
-    // 追加：指定された商品番号の商品を返すメソッド
+    //指定された商品番号の商品を返すメソッド
     public Item getItem(int itemNo) {
         return this.itemList.get(itemNo);
     }

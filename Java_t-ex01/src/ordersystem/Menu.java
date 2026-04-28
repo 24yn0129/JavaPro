@@ -8,7 +8,7 @@ public class Menu {
 
     // コンストラクタ
     public Menu() {
-        // フィールド itemList を ArrayList で初期化します
+        // フィールド itemList を ArrayList で初期化
         this.itemList = new ArrayList<Item>();
     }
 

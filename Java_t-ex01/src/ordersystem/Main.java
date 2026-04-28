@@ -5,7 +5,7 @@ public class Main {
         // Menuクラスのインスタンスを生成
         Menu menu = new Menu();
 
-        // 商品を作成してメニューに追加（実行イメージに合わせます）
+        // 商品を作成してメニューに追加
         menu.add(new Item("チーズINハンバーグ", 680));
         menu.add(new Item("ミックスフライ", 650));
         menu.add(new Item("シーフードドリア", 550));

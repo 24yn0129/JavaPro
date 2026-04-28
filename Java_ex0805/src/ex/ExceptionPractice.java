@@ -6,7 +6,6 @@ package ex;
  */
 public class ExceptionPractice {
 
-<<<<<<< HEAD
 	/**
 	 * main メインメソッド.
 	 * @param args 未使用.
@@ -15,20 +14,7 @@ public class ExceptionPractice {
 		
 		byte num1 = 50;
 		byte num2 = 50;
-=======
-        try {
-            // 自作メソッドの呼び出しと例外監視
-            byte result = add(num1, num2);
-            System.out.println("計算結果：" + result);
-        } catch (ArithmeticException e) {
-            // byteの範囲を超えた際の例外をキャッチ
-            System.out.println(e.getMessage());
-        } 
-            // 終了処理
-            System.out.println("プログラムを終了します");
-        
-    }
->>>>>>> 64ffa7ae758a6f9ceffb32660954ecc6a19aa0e2
+
 
 		try {
 			// 自作メソッドの呼び出しと例外監視

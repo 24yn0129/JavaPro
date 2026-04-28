@@ -12,7 +12,6 @@ public class Item {
 
     // 商品名と価格を表示するメソッド
     public void show() {
-        // ※指定通り、半角の円マーク（バックスラッシュ）を表示させるために「\\」とエスケープしています
         System.out.println(this.name + ":\\" + this.price);
     }
 }
