@@ -1461,14 +1461,21 @@ java.lang.Exception: リソース '/Java_ex0901/src/ex/ExceptionPractice.java' �
 
 !ENTRY mergedoc.encoding 2 0 2026-04-22 23:12:00.707
 !MESSAGE リソース '/Java_ex0907/src/ex/ListPractice.java' が存在しません。
+<<<<<<< HEAD
 !SESSION 2026-04-23 09:12:35.995 -----------------------------------------------
 eclipse.buildId=4.32.0.20240606-1231
 java.version=21.0.3
+=======
+!SESSION 2026-04-23 22:36:56.152 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=17.0.10
+>>>>>>> 64ffa7ae758a6f9ceffb32660954ecc6a19aa0e2
 java.vendor=Eclipse Adoptium
 BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
 Framework arguments:  -product org.eclipse.epp.package.java.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
 
+<<<<<<< HEAD
 !ENTRY org.eclipse.ui 2 0 2026-04-23 09:13:47.052
 !MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
 !SUBENTRY 1 org.eclipse.ui 2 0 2026-04-23 09:13:47.052
@@ -2191,6 +2198,12 @@ java.util.concurrent.TimeoutException
 	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
 
 !ENTRY org.eclipse.lsp4e 2 0 2026-04-24 09:36:25.268
+=======
+!ENTRY org.eclipse.emf.ecore 2 0 2026-04-23 22:37:14.304
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-23 23:11:14.493
+>>>>>>> 64ffa7ae758a6f9ceffb32660954ecc6a19aa0e2
 !MESSAGE Javadoc unavailable. Failed to obtain it.
 !STACK 0
 java.lang.InterruptedException
@@ -2201,6 +2214,7 @@ java.lang.InterruptedException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+<<<<<<< HEAD
 
 !ENTRY org.eclipse.lsp4e 2 0 2026-04-24 09:39:32.013
 !MESSAGE Javadoc unavailable. Failed to obtain it.
@@ -4086,3 +4100,5 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 
 !ENTRY mergedoc.encoding 2 0 2026-04-28 09:36:55.871
 !MESSAGE リソース '/Java_t-ex/src/ordersystem/Menu.java' が存在しません。
+=======
+>>>>>>> 64ffa7ae758a6f9ceffb32660954ecc6a19aa0e2
