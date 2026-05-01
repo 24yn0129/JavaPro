@@ -42,7 +42,7 @@ public class Table {
     }
 
     /**
-     * pauOrderメソッド.
+     * payOrderメソッド.
      * 受け付けた注文を精算し、テーブルの注文状態をリセットします.
      */
     public void payOrder() {

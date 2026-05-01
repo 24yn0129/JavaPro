@@ -1,4 +1,4 @@
-package ordersytem;
+package ordersystem;
 
 /**
  * テーブルごとのメニューと注文を管理するクラスです.

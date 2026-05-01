@@ -7278,3 +7278,483 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 !MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
 !SUBENTRY 1 org.eclipse.ui 2 0 2026-05-01 09:18:33.203
 !MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:45:21.849
+!MESSAGE リソース '/Java_t-ex06/src/ordersytem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:45:21.850
+!MESSAGE リソース '/Java_t-ex06/src/ordersytem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:45:21.852
+!MESSAGE リソース '/Java_t-ex06/src/ordersytem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:45:21.852
+!MESSAGE リソース '/Java_t-ex06/src/ordersytem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:45:21.888
+!MESSAGE リソース '/Java_t-ex06/src/ordersytem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:45:21.889
+!MESSAGE リソース '/Java_t-ex06/src/ordersytem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:45:35.257
+!MESSAGE リソース '/Java_t-ex06/src/ordersystem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:45:35.258
+!MESSAGE リソース '/Java_t-ex06/src/ordersystem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:45:35.279
+!MESSAGE リソース '/Java_t-ex06/src/ordersystem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:45:35.280
+!MESSAGE リソース '/Java_t-ex06/src/ordersystem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:45:35.281
+!MESSAGE リソース '/Java_t-ex06/src/ordersystem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:45:35.281
+!MESSAGE リソース '/Java_t-ex06/src/ordersystem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:45:35.303
+!MESSAGE リソース '/Java_t-ex06/src/ordersystem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:45:35.304
+!MESSAGE リソース '/Java_t-ex06/src/ordersystem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:46:00.196
+!MESSAGE リソース '/Java_t-ex06/src/ordersytem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:46:00.196
+!MESSAGE リソース '/Java_t-ex06/src/ordersytem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:46:00.198
+!MESSAGE リソース '/Java_t-ex06/src/ordersytem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:46:00.198
+!MESSAGE リソース '/Java_t-ex06/src/ordersytem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:46:00.217
+!MESSAGE リソース '/Java_t-ex06/src/ordersytem/Main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2026-05-01 09:46:00.217
+!MESSAGE リソース '/Java_t-ex06/src/ordersytem/Main.java' が存在しません。
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-05-01 09:49:56.111
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-05-01 09:50:59.789
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-05-01 09:55:55.042
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2026-05-01 09:55:55.530
+!MESSAGE 内部エラー
+!STACK 1
+Java Model Exception: Error in Java Model (code 1009): IndexOutOfBoundsException {key=Ljava/lang/IndexOutOfBoundsException;} [in IndexOutOfBoundsException.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:93)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1065)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:799)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:709)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.lambda$0(LSJavaHoverProvider.java:63)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2026-05-01 09:55:55.531
+!MESSAGE IndexOutOfBoundsException {key=Ljava/lang/IndexOutOfBoundsException;} [in IndexOutOfBoundsException.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2026-05-01 09:55:55.939
+!MESSAGE 内部エラー
+!STACK 1
+Java Model Exception: Error in Java Model (code 1009): IndexOutOfBoundsException {key=Ljava/lang/IndexOutOfBoundsException;} [in IndexOutOfBoundsException.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:93)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1065)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:799)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:709)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2026-05-01 09:55:55.939
+!MESSAGE IndexOutOfBoundsException {key=Ljava/lang/IndexOutOfBoundsException;} [in IndexOutOfBoundsException.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-05-01 10:36:39.544
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-05-01 10:41:12.234
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-05-01 10:41:53.134
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2026-05-01 10:41:53.242
+!MESSAGE 内部エラー
+!STACK 1
+Java Model Exception: Error in Java Model (code 1009): String {key=Ljava/lang/String;} [in String.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:93)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1065)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:799)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:709)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.lambda$0(LSJavaHoverProvider.java:63)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2026-05-01 10:41:53.243
+!MESSAGE String {key=Ljava/lang/String;} [in String.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2026-05-01 10:41:53.311
+!MESSAGE 内部エラー
+!STACK 1
+Java Model Exception: Error in Java Model (code 1009): String {key=Ljava/lang/String;} [in String.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:93)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1065)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:799)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:709)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2026-05-01 10:41:53.313
+!MESSAGE String {key=Ljava/lang/String;} [in String.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2026-05-01 10:42:14.192
+!MESSAGE 内部エラー
+!STACK 1
+Java Model Exception: Error in Java Model (code 1009): Integer {key=Ljava/lang/Integer;} [in Integer.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:93)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1065)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:799)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:709)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.lambda$0(LSJavaHoverProvider.java:63)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2026-05-01 10:42:14.192
+!MESSAGE Integer {key=Ljava/lang/Integer;} [in Integer.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2026-05-01 10:42:14.202
+!MESSAGE 内部エラー
+!STACK 1
+Java Model Exception: Error in Java Model (code 1009): Integer {key=Ljava/lang/Integer;} [in Integer.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:93)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1065)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:799)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:709)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2026-05-01 10:42:14.203
+!MESSAGE Integer {key=Ljava/lang/Integer;} [in Integer.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-05-01 10:42:22.651
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2026-05-01 10:42:23.106
+!MESSAGE 内部エラー
+!STACK 1
+Java Model Exception: Error in Java Model (code 1009): NumberFormatException {key=Ljava/lang/NumberFormatException;} [in NumberFormatException.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:93)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1065)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:799)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:709)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.lambda$0(LSJavaHoverProvider.java:63)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2026-05-01 10:42:23.106
+!MESSAGE NumberFormatException {key=Ljava/lang/NumberFormatException;} [in NumberFormatException.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2026-05-01 10:42:23.438
+!MESSAGE 内部エラー
+!STACK 1
+Java Model Exception: Error in Java Model (code 1009): NumberFormatException {key=Ljava/lang/NumberFormatException;} [in NumberFormatException.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:93)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1065)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:799)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:709)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2026-05-01 10:42:23.439
+!MESSAGE NumberFormatException {key=Ljava/lang/NumberFormatException;} [in NumberFormatException.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2026-05-01 10:45:07.310
+!MESSAGE 内部エラー
+!STACK 1
+Java Model Exception: Error in Java Model (code 1009): System [in System.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:93)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1065)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:799)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:709)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.lambda$0(LSJavaHoverProvider.java:63)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2026-05-01 10:45:07.311
+!MESSAGE System [in System.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2026-05-01 10:45:07.317
+!MESSAGE 内部エラー
+!STACK 1
+Java Model Exception: Error in Java Model (code 1009): System [in System.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:93)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1065)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:799)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:709)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2026-05-01 10:45:07.317
+!MESSAGE System [in System.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-05-01 10:48:28.908
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-05-01 10:49:50.944
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2026-05-01 10:49:51.508
+!MESSAGE 内部エラー
+!STACK 1
+Java Model Exception: Error in Java Model (code 1009): System {key=Ljava/lang/System;} [in System.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:93)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1065)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:799)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:709)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.lambda$0(LSJavaHoverProvider.java:63)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2026-05-01 10:49:51.509
+!MESSAGE System {key=Ljava/lang/System;} [in System.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2026-05-01 10:49:51.649
+!MESSAGE 内部エラー
+!STACK 1
+Java Model Exception: Error in Java Model (code 1009): System {key=Ljava/lang/System;} [in System.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:93)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1065)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:799)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:709)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2026-05-01 10:49:51.649
+!MESSAGE System {key=Ljava/lang/System;} [in System.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-05-01 10:50:18.296
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2026-05-01 10:50:18.894
+!MESSAGE 内部エラー
+!STACK 1
+Java Model Exception: Error in Java Model (code 1009): Integer {key=Ljava/lang/Integer;} [in Integer.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:93)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1065)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:799)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:709)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.lambda$0(LSJavaHoverProvider.java:63)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2026-05-01 10:50:18.896
+!MESSAGE Integer {key=Ljava/lang/Integer;} [in Integer.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2026-05-01 10:50:18.907
+!MESSAGE 内部エラー
+!STACK 1
+Java Model Exception: Error in Java Model (code 1009): Integer {key=Ljava/lang/Integer;} [in Integer.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:93)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1065)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:799)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:709)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2026-05-01 10:50:18.907
+!MESSAGE Integer {key=Ljava/lang/Integer;} [in Integer.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2026-05-01 10:51:41.231
+!MESSAGE 内部エラー
+!STACK 1
+Java Model Exception: Error in Java Model (code 1009): Integer {key=Ljava/lang/Integer;} [in Integer.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:93)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1065)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:799)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:709)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.lambda$0(LSJavaHoverProvider.java:63)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2026-05-01 10:51:41.231
+!MESSAGE Integer {key=Ljava/lang/Integer;} [in Integer.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2026-05-01 10:51:41.235
+!MESSAGE 内部エラー
+!STACK 1
+Java Model Exception: Error in Java Model (code 1009): Integer {key=Ljava/lang/Integer;} [in Integer.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+	at org.eclipse.jdt.internal.core.JavadocContents.getTypeDoc(JavadocContents.java:93)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:1065)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:799)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:709)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1009 2026-05-01 10:51:41.236
+!MESSAGE Integer {key=Ljava/lang/Integer;} [in Integer.class [in java.lang [in <module:java.base>]]] に対しては不明な javadoc フォーマットです
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-05-01 11:15:54.173
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
