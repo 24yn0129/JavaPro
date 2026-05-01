@@ -2,6 +2,7 @@ package ordersystem;
 
 public class Main {
     public static void main(String[] args) {
+
         Menu menu = new Menu();
         menu.add(new Item("チーズINハンバーグ", 680));
         menu.add(new Item("ミックスフライ", 650));
@@ -27,5 +28,3 @@ public class Main {
         table.showOrder();
     }
 }
-
-

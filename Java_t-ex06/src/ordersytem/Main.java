@@ -1,4 +1,4 @@
-package ordersystem;
+package ordersytem;
 
 import java.util.Scanner;
 
@@ -20,18 +20,18 @@ public class Main {
         
         menu.show();
 
-        // 4つ分のテーブルを配列で用意します
+        // 4つ分のテーブルを配列で用意します.
         Table[] tables = new Table[4];
         for (int i = 0; i < tables.length; i++) {
             tables[i] = new Table(menu);
         }
 
-        // try-with-resources文でScannerを宣言します（自動でcloseされます）
+        // try-with-resources文でScannerを宣言します（自動でcloseされます）.
         try (Scanner sc = new Scanner(System.in)) {
             
             System.out.println("◇テーブルを指定して注文を追加する");
             
-            // テーブル選択のループ（外側のループ）
+            // テーブル選択のループ（外側のループ）.
             while (true) {
                 System.out.print("テーブル No を0〜3の中から指定してください（c:キャンセル）\n>>>");
                 String tInput = sc.nextLine();
@@ -43,13 +43,13 @@ public class Main {
                 try {
                     int tableNo = Integer.parseInt(tInput);
                     
-                    // テーブル番号が0〜3の範囲外だった場合のエラー処理
+                    // テーブル番号が0〜3の範囲外だった場合のエラー処理.
                     if (tableNo < 0 || tableNo > 3) {
                         System.out.println("ERROR: 無効な入力です");
                         continue;
                     }
 
-                    // 商品選択のループ（内側のループ）
+                    // 商品選択のループ（内側のループ）.
                     while (true) {
                         System.out.print("メニューの商品番号を指定してください（c:キャンセル）\n>>>");
                         String iInput = sc.nextLine();
@@ -73,7 +73,7 @@ public class Main {
                 }
             }
 
-            // 全テーブルのステータスを表示（追加した別メソッドを呼び出します）
+            // 全テーブルのステータスを表示（追加した別メソッドを呼び出します）.
             showAllTables(tables);
 
             System.out.println();
@@ -98,7 +98,7 @@ public class Main {
 
             System.out.println();
 
-            // 精算後の全テーブルステータスを表示
+            // 精算後の全テーブルステータスを表示.
             showAllTables(tables);
         }
     }

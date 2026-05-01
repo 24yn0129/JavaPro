@@ -1,4 +1,4 @@
-package ordersystem;
+package ordersytem;
 
 /**
  * 商品を表すクラスです.
