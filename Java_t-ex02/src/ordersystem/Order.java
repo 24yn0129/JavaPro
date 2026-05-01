@@ -32,6 +32,7 @@ public class Order {
         for (Item item : this.orderedItemList) {
             item.show();
         }
+        
         System.out.println("合計金額:\\" + this.getTotalAmount());
     }
 }
